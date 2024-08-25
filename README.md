@@ -17,10 +17,12 @@ We strongly believe that embracing decentralized finance can effectively address
 
 We aim to establish a progressively decentralized community (DAO) comprising underwriters, auditors, service providers, asset originators, developers, and investors. Our incentive mechanism is designed to promote positive behavior and address centralized decision-making across the network.
 
-Our plan involves building the protocol as an infrastructure toolkit to fulfill three main purposes:
+Our plan involves building the protocol as an infrastructure toolkit to fulfill three main purposes, listed below:
 1. Simplifying crypto and DeFi complexities for users.
 2. Providing comprehensive on and off-chain reputation and identity management, along with regulatory compliance.
 3. Enabling robust security and privacy features, such as tools for on and off-chain credit scoring, reputation management, whitelisting, compliance checks, decentralized data storage, dashboards, etc., all integrated with encryption and security measures.
+
+
 
 ## SMART CONTRACTS
 The contracts are deployed on Celo Alfajores in the addresses listed below
